@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - zrd_base_tools (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - zrd_base_tools (from `.symlinks/plugins/zrd_base_tools/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  zrd_base_tools:
+    :path: ".symlinks/plugins/zrd_base_tools/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  zrd_base_tools: 22b2b42d5ec6b1cec52f73ed78270f51804b0add
+
+PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
+
+COCOAPODS: 1.9.1
